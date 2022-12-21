@@ -1,4 +1,4 @@
-# Rise-Manager 
+# Rise-Manager-beta
 
 Made by Treveen / #age12 
 
