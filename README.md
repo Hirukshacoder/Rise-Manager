@@ -1,10 +1,10 @@
 # Rise-Manager-beta
 
-Made by Treveen
+* Made by Treveen
 
-Rise Manager is a password manager app.
+* Rise Manager is a password manager app.
 
-It has a database where usernames and passwords are stored.
+* It has a database where usernames and passwords are stored.
 
 # Get Started 
 
@@ -12,11 +12,11 @@ It has a database where usernames and passwords are stored.
 
  Add your ip to server.py and client.py
 
-            $ python3 main.py 
+    $ python3 main.py 
 
-            $ python3 server.py
+    $ python3 server.py
 
-            $ python3 client.py (for the username and password add the details you entered in the main.py)
+    $ python3 client.py (for the username and password add the details you entered in the main.py)
 
 * You have the dashboard 
 
