@@ -6,6 +6,7 @@
 
  * Made by THB 
  
+ ![](https://img.shields.io/github/gist/stars/9e6eb3157b1bc51a971e6f80d682a06f?color=blue&logoColor=grey&style=social)
  ![](https://img.shields.io/pypi/l/hashlib?color=yellow&logo=python)
  
  
