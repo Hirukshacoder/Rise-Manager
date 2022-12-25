@@ -55,3 +55,5 @@
 
 - [📱Telegram](https://t.me/+wrtEUZA9_j8yMjM9)
 - [💽Discord](https://discord.com/channels/1050402536336654436/1050417547499028491)
+
+![](https://www.buymeacoffee.com/thborg)
