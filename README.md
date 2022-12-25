@@ -7,7 +7,7 @@
 
  * Made by THB 
  
- ![thb](https://img.shields.io/badge/THB?style=for_the_badge&logo=thb)
+ ![thb](https://img.shields.io/badge/TryHackMe-THB-212C42?style=for_the_badge&logo=thb)
  ![](https://img.shields.io/pypi/l/hashlib?color=yellow&logo=python)
  ![python](https://img.shields.io/badge/Python-v3.10-3776AB?style=for_the_badge&logo=Python)
  ![sqlite](https://img.shields.io/badge/Sqlite-v3-003B57?style=for_the_badge&logo=Sqlite)
