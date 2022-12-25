@@ -57,3 +57,5 @@
 - [💽Discord](https://discord.com/channels/1050402536336654436/1050417547499028491)
 
 <a href="https://www.buymeacoffee.com/thborg"><img src="https://img.buymeacoffee.com/button-api/?text=Donate us&emoji=🍪&slug=thborg&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+<iframe src="https://giphy.com/embed/o7RZbs4KAA6tvM4H6j" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/buymeacoffee-buy-me-a-coffee-support-button-o7RZbs4KAA6tvM4H6j">via GIPHY</a></p>
