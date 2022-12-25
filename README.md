@@ -5,11 +5,10 @@
  * An easy cool tool to save your passwords securely in your computer.
 
  * Made by THB 
-
  
-
+ ![](https://img.shields.io/pypi/l/hashlib?color=yellow&logo=python)
  
-
+ 
 # Installation
       
       $ python3 server.py (server does not show anything)
@@ -28,12 +27,13 @@
 
 **🤖 Signup:** Python - main.py 
 
-**🤖 Database:** Sqllite3 - database_mine.db 
+**🤖 Database:** Sqlite3 - database_mine.db 
 
 
 ## Demo
 
-🤖 [Watch demo](https://www.canva.com/design/DAFVwNOvQo4/watch)
+
+
 ## Authors
 
 - 🤖 [@Treveen_THB_CEO](https://github.com/Hirukshacoder)
