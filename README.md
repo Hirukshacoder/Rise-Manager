@@ -1,5 +1,4 @@
-(https://imgur.com/a/b5YXMD4)
-
+![Rules (1)](https://user-images.githubusercontent.com/97717488/209461616-ca709ef8-13b2-40da-9641-f0dfa36fca74.png)
 
 # R - Manager 
 
