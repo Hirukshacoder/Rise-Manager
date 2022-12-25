@@ -33,6 +33,13 @@
 **🤖 Database:** Sqlite3 - database_mine.db 
 
 
+## Features
+
+- 🤖 Online server 
+- 🤖 Saving passwords securely in database 
+- 🤖 Login system
+- 🤖 Server can be hosted in any os 
+
 ## Demo
 
 [screen-capture (1).webm](https://user-images.githubusercontent.com/97717488/209463033-d6110015-d54b-488b-8cf9-db62ffe293db.webm)
