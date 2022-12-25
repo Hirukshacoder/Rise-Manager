@@ -10,8 +10,7 @@
 
  ![](https://img.shields.io/pypi/l/hashlib?color=yellow&logo=python)
  ![python](https://img.shields.io/badge/Python-v3.10-3776AB?style=for_the_badge&logo=Python)
- ![python](https://img.shields.io/badge/Sqlite-v3-003B57?style=for_the_badge&logo=Sqlite)
- 
+ ![sqlite](https://img.shields.io/badge/Sqlite-v3-003B57?style=for_the_badge&logo=Sqlite)
  
 # Installation
       
@@ -44,3 +43,8 @@
 
 - 🤖 [@Treveen_THB_CEO](https://github.com/Hirukshacoder)
 - 🤖 [@Thenuja](https://github.com/tmanumsl)
+
+## Contact
+
+- [📱Telegram](https://t.me/+wrtEUZA9_j8yMjM9)
+- [💽Discord](https://discord.com/channels/1050402536336654436/1050417547499028491)
