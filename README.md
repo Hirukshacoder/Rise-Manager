@@ -1,4 +1,4 @@
-[Logo](https://imgur.com/a/b5YXMD4)
+(https://imgur.com/a/b5YXMD4)
 
 
 # R - Manager 
