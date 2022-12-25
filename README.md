@@ -1,4 +1,4 @@
-![R -](https://user-images.githubusercontent.com/97717488/209462590-cb4bb5be-490d-44f5-8464-1a972c58840d.png)
+![R -](https://user-images.githubusercontent.com/97717488/209462590-cb4bb5be-490d-44f5-8464-1a972c58840d.png) 
 
 
 # R - Manager 
