@@ -58,6 +58,6 @@
 
 <a href="https://www.buymeacoffee.com/thborg"><img src="https://img.buymeacoffee.com/button-api/?text=Donate us&emoji=🍪&slug=thborg&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
-[giphy.gif](https://user-images.githubusercontent.com/97717488/209466160-d8ef8a98-a1be-4b41-aa99-ee1bb59f7194.gif)
+![giphy (1)](https://user-images.githubusercontent.com/97717488/209466308-b7c565ac-a0bd-4a66-bab3-f7018f2dffc5.gif)
 
 # Thank you!
