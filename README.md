@@ -1,4 +1,4 @@
-![R -](https://user-images.githubusercontent.com/97717488/209462590-cb4bb5be-490d-44f5-8464-1a972c58840d.png) 
+![R -](https://user-images.githubusercontent.com/97717488/209462590-cb4bb5be-490d-44f5-8464-1a972c58840d.png)
 
 
 # R - Manager 
@@ -36,10 +36,11 @@
 
 ## Demo
 
+![Demonstration](https://user-images.githubusercontent.com/97717488/209462615-0a2aa709-ca2d-47f8-93ae-746c26dfe230.mp4)
+
 
 
 ## Authors
 
 - 🤖 [@Treveen_THB_CEO](https://github.com/Hirukshacoder)
 - 🤖 [@Thenuja](https://github.com/tmanumsl)
-
