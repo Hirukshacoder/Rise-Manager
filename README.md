@@ -56,4 +56,4 @@
 - [📱Telegram](https://t.me/+wrtEUZA9_j8yMjM9)
 - [💽Discord](https://discord.com/channels/1050402536336654436/1050417547499028491)
 
-![](https://www.buymeacoffee.com/thborg)
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="thborg" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
