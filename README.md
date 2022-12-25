@@ -6,8 +6,9 @@
 
  * Made by THB 
  
- ![](https://img.shields.io/github/gist/stars/9e6eb3157b1bc51a971e6f80d682a06f?color=blue&logoColor=grey&style=social)
+
  ![](https://img.shields.io/pypi/l/hashlib?color=yellow&logo=python)
+ ![python](https://user-images.githubusercontent.com/97717488/209462278-1af8c9fe-29f8-41f5-b498-e2875de38a14.svg)
  
  
 # Installation
