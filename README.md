@@ -57,3 +57,4 @@
 - [💽Discord](https://discord.com/channels/1050402536336654436/1050417547499028491)
 
 
+<a href="https://www.buymeacoffee.com/thborg"><img src="https://img.buymeacoffee.com/button-api/?text=Donate us&emoji=🚀&slug=thborg&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
