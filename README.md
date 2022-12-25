@@ -49,7 +49,6 @@
 ## Authors
 
 - 🤖 [@Treveen_THB_CEO](https://github.com/Hirukshacoder)
-- 🤖 [@Thenuja](https://github.com/tmanumsl)
 
 ## Contact
 
