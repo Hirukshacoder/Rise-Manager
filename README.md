@@ -1,28 +1,42 @@
-# Rise-Manager-beta
-
-* Made by Treveen
-
-* Rise Manager is a password manager app.
-
-* It has a database where usernames and passwords are stored.
-
-# Get Started 
-
- Download the zip file 
-
- Add your ip to server.py and client.py
-
-    $ python3 main.py 
-
-    $ python3 server.py
-
-    $ python3 client.py (for the username and password add the details you entered in the main.py)
-
-* You have the dashboard 
-
-# What does it include 
-
-* You can basically store passwords and view them. It's pretty secret / hidden
+[Logo](https://imgur.com/a/b5YXMD4)
 
 
-# Thank you!
+# R - Manager 
+
+ * An easy cool tool to save your passwords securely in your computer.
+
+ * Made by THB 
+
+ 
+
+ 
+
+# Installation
+      
+      $ python3 server.py (server does not show anything)
+      $ python3 main.py (type a username and password in the program)
+      $ python3 client.py (CLI - command line interface/dashboard login)
+
+* Once you have done that your username and password is saved in the "userdatabase_mine.db" file.
+
+
+
+## Tech Stack
+
+**🤖 Client:** Python - server.py
+
+**🤖 Server:** Python - server.py
+
+**🤖 Signup:** Python - main.py 
+
+**🤖 Database:** Sqllite3 - database_mine.db 
+
+
+## Demo
+
+🤖 [Watch demo](https://www.canva.com/design/DAFVwNOvQo4/watch)
+## Authors
+
+- 🤖 [@Treveen_THB_CEO](https://github.com/Hirukshacoder)
+- 🤖 [@Thenuja](https://github.com/tmanumsl)
+
