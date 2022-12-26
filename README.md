@@ -146,4 +146,6 @@ This project is used by the following companies:
 
 - [@Treveen](https://www.github.com/Hirukshacorder)
 
+<a href="https://www.buymeacoffee.com/thborg"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=thborg&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
 # Thank you!
