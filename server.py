@@ -3,9 +3,9 @@ import sqlite3
 import threading
 import hashlib
 
-host = "<add your ip>"
+host = str("<add your ip>")
 
-port = "<add your port>"
+port = int(9999)
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server.bind((host, port))
 server.listen()
