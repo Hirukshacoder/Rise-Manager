@@ -96,7 +96,7 @@ Install R-Manager with git
 
 ### Config ngrok
 
-* Install ![ngrok](https://ngrok.com/)
+* Install [ngrok](https://ngrok.com/)
 
 * Go to the extracted ngrok directory and save your auth token
 
