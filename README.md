@@ -49,7 +49,7 @@ Install R-Manager with git
 | 2         | Beckham  | password                |
 | 3         | Ann      | password                |
 
-## R - Manager Vol-1.0 Documentation
+## R - Manager Documentation
 
 * Made by THB 
 * Your free to fork this project.
