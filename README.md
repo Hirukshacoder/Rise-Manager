@@ -79,7 +79,7 @@ Install R-Manager with git
 
 
 
-### ~ main.py ~
+### ~ signup.py ~
 
 * A signup system that adds your username and the hashed password to 'database_mine.db'.
 
@@ -88,7 +88,30 @@ Install R-Manager with git
 * Your passwords are hashed and then add to the database.
 
 
+## Ngrok - configuration
 
+* Ngrok is a bit buggy on `client_v1-0.py`
+
+* It works only on `client_v1-1.py`
+
+### Config ngrok on `client_v1-1.py`
+
+* Install ![ngrok](https://ngrok.com/)
+
+* Go to the extracted ngrok directory and save your auth token
+
+* Run `./ngrok tcp 9999`
+
+* Type `localhost` to the `host` variable in `server.py`
+
+* Get the `ip` and `port` from the `ngrok connection` in terminal
+
+* Paste the `ip` and `port` to the `client_v1-1.py` as shown below
+
+```python
+client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+client.connect(("0.tcp.in.ngrok.io", 11441))
+```
 
 ## Examples
 
