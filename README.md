@@ -94,7 +94,7 @@ Install R-Manager with git
 
 * It works only on `client_v1-1.py`
 
-### Config ngrok on `client_v1-1.py`
+### Config ngrok
 
 * Install ![ngrok](https://ngrok.com/)
 
@@ -104,7 +104,7 @@ Install R-Manager with git
 
 * Type `localhost` to the `host` variable in `server.py`
 
-* Get the `ip` and `port` from the `ngrok connection` in terminal
+* Get the `ip` and `port` from the ngrok connection in terminal
 
 * Paste the `ip` and `port` to the `client_v1-1.py` as shown below
 
